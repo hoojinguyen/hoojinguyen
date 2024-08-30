@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Hooji! Thanks for stopping by my profile. I'm passionate about software engineering. Feel free to connect with me through my [Linktree](https://linktr.ee/hoojinguyen) for more!
+I'm Hooji 🐯 ྀི! Thanks for stopping by my profile. I'm passionate about software engineering. Feel free to connect with me through my [Linktree](https://linktr.ee/hoojinguyen) for more!
